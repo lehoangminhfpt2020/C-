@@ -69,19 +69,57 @@ namespace NoertisPharma
 
     class Sales
     {
+        int MedicineCodeS;
         int QuantitySold;
         double PlannedSales;
         double ActualSales;
         int SalesID;
         string Password;
+
+        public Sales()
+        {
+
+        }
+
+        public Sales(int Code, int QuantitySold , double Planned, double Actual)
+        {
+            MedicineCodeS = Code;
+            this.QuantitySold = QuantitySold;
+            PlannedSales = Planned;
+            ActualSales = Actual;
+        }
+
+        public void Input()
+        {
+            Console.WriteLine("Enter the MedicineCode: ");
+            MedicineCodeS = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Quantity Sold: ");
+            QuantitySold = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Planned Sale: ");
+            PlannedSales = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Actual Sale: ");
+            ActualSales = Convert.ToDouble(Console.ReadLine());
+        }
+        public void Diaplay()
+        {
+            Console.WriteLine("MedicineCode: " + MedicineCodeS);
+            Console.WriteLine("Quantity Sold: " + QuantitySold);
+            Console.WriteLine("Planned Sale: " + PlannedSales);
+            Console.WriteLine("Actual Sale: " + ActualSales);
+        }
     }
     class Program
     {
         static void Main()
         {
+            
             Medicine Paradon = new Medicine();
             Paradon.Accept();
             Paradon.Print();
+
+            Sales Minh = new Sales();
+            Minh.Input();
+            Minh.Diaplay();
         }
     }
 
