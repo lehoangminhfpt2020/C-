@@ -1,0 +1,13 @@
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.csprojAssemblyReference.cache
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.AssemblyInfoInputs.cache
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.AssemblyInfo.cs
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.csproj.CoreCompileInputs.cache
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.exe
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.deps.json
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.runtimeconfig.json
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.runtimeconfig.dev.json
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.dll
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\bin\Debug\netcoreapp3.1\NoertisPharma.pdb
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.dll
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.pdb
+E:\learn\FPT\kif 2\C#\HomeWork\Lad4\NoertisPharma\NoertisPharma\obj\Debug\netcoreapp3.1\NoertisPharma.genruntimeconfig.cache
