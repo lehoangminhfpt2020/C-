@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.exe
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.deps.json
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.dll
+C:\Users\nhatdz\source\repos\Session2\Session2\bin\Debug\netcoreapp3.1\Session2.pdb
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.dll
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.pdb
+C:\Users\nhatdz\source\repos\Session2\Session2\obj\Debug\netcoreapp3.1\Session2.genruntimeconfig.cache

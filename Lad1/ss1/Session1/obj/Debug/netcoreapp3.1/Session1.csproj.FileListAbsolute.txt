@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.exe
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.deps.json
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.dll
+C:\Users\nhatdz\source\repos\Session1\Session1\bin\Debug\netcoreapp3.1\Session1.pdb
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.dll
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.pdb
+C:\Users\nhatdz\source\repos\Session1\Session1\obj\Debug\netcoreapp3.1\Session1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.exe
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.deps.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.dll
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\bin\Debug\netcoreapp3.1\codesnippet8.pdb
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.dll
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.pdb
+C:\Users\nhatdz\source\repos\Session3\codesnippet8\obj\Debug\netcoreapp3.1\codesnippet8.genruntimeconfig.cache

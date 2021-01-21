@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.exe
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.deps.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.runtimeconfig.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.dll
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\bin\Debug\netcoreapp3.1\codesnippet7.pdb
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.dll
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.pdb
+C:\Users\nhatdz\source\repos\Session3\codesnippet7\obj\Debug\netcoreapp3.1\codesnippet7.genruntimeconfig.cache
