@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.exe
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.deps.json
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.json
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.dll
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\bin\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.dll
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.pdb
+C:\Users\nhatdz\source\repos\WorkShopSession8\WorkShopSession8\obj\Debug\netcoreapp3.1\Bank.genruntimeconfig.cache
