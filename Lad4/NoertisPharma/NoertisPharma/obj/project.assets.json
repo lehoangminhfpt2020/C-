@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\learn\\FPT\\kif 2\\C#\\HomeWork\\Lad4\\NoertisPharma\\NoertisPharma\\NoertisPharma.csproj",
+      "projectUniqueName": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad4\\NoertisPharma\\NoertisPharma\\NoertisPharma.csproj",
       "projectName": "NoertisPharma",
-      "projectPath": "E:\\learn\\FPT\\kif 2\\C#\\HomeWork\\Lad4\\NoertisPharma\\NoertisPharma\\NoertisPharma.csproj",
+      "projectPath": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad4\\NoertisPharma\\NoertisPharma\\NoertisPharma.csproj",
       "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
-      "outputPath": "E:\\learn\\FPT\\kif 2\\C#\\HomeWork\\Lad4\\NoertisPharma\\NoertisPharma\\obj\\",
+      "outputPath": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad4\\NoertisPharma\\NoertisPharma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
