@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.exe
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.deps.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.runtimeconfig.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\bin\Debug\netcoreapp3.1\CodeSnippe4.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippetSession10\obj\Debug\netcoreapp3.1\CodeSnippe4.genruntimeconfig.cache

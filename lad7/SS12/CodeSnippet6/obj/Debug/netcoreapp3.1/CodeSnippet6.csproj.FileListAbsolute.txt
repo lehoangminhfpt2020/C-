@@ -1,0 +1,13 @@
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.exe
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.deps.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.runtimeconfig.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\bin\Debug\netcoreapp3.1\CodeSnippet6.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.csprojAssemblyReference.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession12\CodeSnippet6\obj\Debug\netcoreapp3.1\CodeSnippet6.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.exe
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.deps.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.runtimeconfig.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.runtimeconfig.dev.json
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\bin\Debug\netcoreapp3.1\CodeSnippet21.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.AssemblyInfoInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.AssemblyInfo.cs
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.csproj.CoreCompileInputs.cache
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.dll
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.pdb
+C:\Users\nhatdz\source\repos\CodeSnippetSession10\CodeSnippet21\obj\Debug\netcoreapp3.1\CodeSnippet21.genruntimeconfig.cache
