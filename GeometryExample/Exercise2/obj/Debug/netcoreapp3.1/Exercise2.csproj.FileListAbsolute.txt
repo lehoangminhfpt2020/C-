@@ -1,0 +1,13 @@
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.exe
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.deps.json
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.json
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.runtimeconfig.dev.json
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.dll
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\bin\Debug\netcoreapp3.1\Exercise2.pdb
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csprojAssemblyReference.cache
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfoInputs.cache
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.AssemblyInfo.cs
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.csproj.CoreCompileInputs.cache
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.dll
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.pdb
+E:\learn\FPT\kif 2\C#\practice\GeometryExample\Exercise2\obj\Debug\netcoreapp3.1\Exercise2.genruntimeconfig.cache

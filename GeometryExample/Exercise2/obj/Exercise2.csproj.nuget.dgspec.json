@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\EFCore.csproj": {}
+    "E:\\learn\\FPT\\kif 2\\C#\\practice\\GeometryExample\\Exercise2\\Exercise2.csproj": {}
   },
   "projects": {
-    "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\EFCore.csproj": {
+    "E:\\learn\\FPT\\kif 2\\C#\\practice\\GeometryExample\\Exercise2\\Exercise2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\EFCore.csproj",
-        "projectName": "EFCore",
-        "projectPath": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\EFCore.csproj",
+        "projectUniqueName": "E:\\learn\\FPT\\kif 2\\C#\\practice\\GeometryExample\\Exercise2\\Exercise2.csproj",
+        "projectName": "Exercise2",
+        "projectPath": "E:\\learn\\FPT\\kif 2\\C#\\practice\\GeometryExample\\Exercise2\\Exercise2.csproj",
         "packagesPath": "C:\\Users\\Minh\\.nuget\\packages\\",
-        "outputPath": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\obj\\",
+        "outputPath": "E:\\learn\\FPT\\kif 2\\C#\\practice\\GeometryExample\\Exercise2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,22 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[5.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

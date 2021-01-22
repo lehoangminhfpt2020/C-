@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ky8mf0U1wBn/dYuViMxWFrZcxqGXbIv6R5wm4DKYy8ISwLtPKty+QPoI2rJcxmJqJKQdaBFWX4dZmvdEVOwMEA==",
+  "dgSpecHash": "qgtDpo+KFKInWO5//ZCp9/BpcOuYJEYRk0NIkqe3xthv+C8LdLjmAJNIf4ET04s/JsAnqAajHLGT9EEzqduioQ==",
   "success": true,
-  "projectFilePath": "E:\\learn\\FPT\\kif 2\\C#\\on class\\20.1.2021\\CSDBC\\EFCore\\EFCore.csproj",
+  "projectFilePath": "E:\\learn\\FPT\\Github\\C#\\C-\\Lad9\\CSDBC\\EFCore\\EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Minh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
